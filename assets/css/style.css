@@ -1,0 +1,68 @@
+#myName {
+    float:left;
+    background-color: #4aaaa5;
+    height: 75px;
+    padding: 40px 30px 0px 30px;
+    position: relative;
+    top: -15px;
+    margin-left: 200px;
+    margin-top: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.nav {
+    float: right;
+    margin: 10px;
+    padding: 25px 20px 0px 0px;
+    color: #777777;
+}
+
+.heading {
+    height: 100px;
+    background-color: white;
+    color: white;
+    position: relative;
+    top: -21px;
+
+}
+
+img {
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin: 10px 30px;
+}
+
+.body {
+    height: 500px;
+    background-color: white;
+    margin: 50px 200px;
+    color: #777777;
+}
+
+#shortLine {
+    width: 96%;
+}
+
+#aboutMe {
+    margin: 0px 30px; 
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
+body {
+    background-image: url('../images/criss-cross.png');
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact {
+    margin-right: 200px;
+}
+
+.content {
+    line-height: 40px;
+    margin: 0px 30px; 
+}
+
