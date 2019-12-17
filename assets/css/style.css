@@ -36,9 +36,12 @@ img {
 
 .body {
     height: 500px;
-    background-color: white;
+    background-color: #ffffff;
     margin: 50px 200px;
     color: #777777;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 1px;
 }
 
 #shortLine {
